@@ -1,0 +1,51 @@
+event_id,event_type,impact_amount,event_date,risk_category,resolved
+3001,Fraud,11284.06,2024-01-01,Market,0
+3002,Operational Error,19296.85,2024-01-02,Operational,1
+3003,Operational Error,7495.57,2024-01-03,Credit,1
+3004,Fraud,13019.82,2024-01-04,Credit,0
+3005,Fraud,18708.53,2024-01-05,Credit,0
+3006,Operational Error,2947.68,2024-01-06,Market,0
+3007,Fraud,18807.34,2024-01-07,Credit,0
+3008,Market Loss,14069.83,2024-01-08,Operational,0
+3009,Operational Error,2288.9,2024-01-09,Market,0
+3010,Operational Error,6718.31,2024-01-10,Operational,0
+3011,Operational Error,14455.27,2024-01-11,Credit,0
+3012,Market Loss,2279.66,2024-01-12,Operational,0
+3013,Fraud,12061.24,2024-01-13,Operational,0
+3014,Operational Error,7571.78,2024-01-14,Operational,0
+3015,Operational Error,12797.39,2024-01-15,Operational,1
+3016,Fraud,1869.1,2024-01-16,Operational,1
+3017,Market Loss,17559.2,2024-01-17,Market,0
+3018,Operational Error,19496.29,2024-01-18,Credit,0
+3019,Operational Error,19408.68,2024-01-19,Credit,0
+3020,Market Loss,15243.38,2024-01-20,Operational,1
+3021,Market Loss,3471.64,2024-01-21,Market,1
+3022,Operational Error,15407.0,2024-01-22,Operational,0
+3023,Market Loss,1467.15,2024-01-23,Market,1
+3024,Operational Error,1420.35,2024-01-24,Credit,0
+3025,Operational Error,7148.59,2024-01-25,Credit,0
+3026,Operational Error,10284.22,2024-01-26,Market,1
+3027,Operational Error,15637.74,2024-01-27,Market,1
+3028,Fraud,13982.61,2024-01-28,Credit,1
+3029,Market Loss,9472.15,2024-01-29,Market,1
+3030,Market Loss,6198.91,2024-01-30,Credit,0
+3031,Fraud,19945.37,2024-01-31,Market,1
+3032,Market Loss,9097.44,2024-02-01,Credit,0
+3033,Fraud,9576.35,2024-02-02,Operational,1
+3034,Fraud,4108.85,2024-02-03,Credit,0
+3035,Operational Error,16101.38,2024-02-04,Market,1
+3036,Fraud,14179.96,2024-02-05,Credit,0
+3037,Market Loss,5194.62,2024-02-06,Credit,1
+3038,Market Loss,2565.24,2024-02-07,Credit,0
+3039,Operational Error,13929.49,2024-02-08,Market,1
+3040,Fraud,13435.71,2024-02-09,Market,0
+3041,Fraud,6191.93,2024-02-10,Credit,0
+3042,Operational Error,19066.41,2024-02-11,Market,0
+3043,Market Loss,3870.1,2024-02-12,Operational,0
+3044,Operational Error,9214.36,2024-02-13,Operational,1
+3045,Fraud,18928.7,2024-02-14,Credit,0
+3046,Operational Error,8974.82,2024-02-15,Market,1
+3047,Operational Error,13131.99,2024-02-16,Credit,0
+3048,Operational Error,8554.29,2024-02-17,Credit,0
+3049,Fraud,6210.09,2024-02-18,Operational,1
+3050,Operational Error,19695.58,2024-02-19,Credit,1
